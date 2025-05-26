@@ -22,9 +22,41 @@ Este proyecto tiene como objetivo analizar el comportamiento de evasión de clie
 
 ---
 
+## 🚀 Instrucciones para Usar el Proyecto
+
+### 1. Clona el repositorio
+
+```bash
+git clone https://github.com/jenpronet/Challenge-Alura-TelecomX-Latam.git
+cd Challenge-Alura-TelecomX-Latam
+```
+
+### 2. Crea un entorno virtual (opcional pero recomendado)
+
+```bash
+python -m venv env
+source env/bin/activate  # En Windows: env\Scripts\activate
+```
+
+### 3. Instala las dependencias necesarias
+
+```bash
+pip install pandas matplotlib seaborn notebook
+```
+
+### 4. Inicia Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Abre el archivo TelecomX_LATAM.ipynb desde el navegador para visualizar el análisis.
+
+---
+
 ## 🗂️ Estructura del Proyecto
 
-- `Churn_Analysis.ipynb`: Notebook principal con todo el análisis, visualizaciones y conclusiones.
+- `TelecomX_LATAM.ipynb`: Notebook principal con todo el análisis, visualizaciones y conclusiones.
 - `README.md`: Este documento, que resume el propósito y estructura del proyecto.
 - `TelecomX_Data.json`: Conjunto de datos utilizado en el análisis.
 
