@@ -59,7 +59,7 @@ Este proyecto tiene como objetivo analizar el comportamiento de evasión de clie
 ## 👨‍💻 Autor
 
 **Javier Prada**  
-DevSecOps | Especialista en Transformación Digital  
+Ingeniero en Sistemas | Especializacion DevOps | DevSecOps  
 [LinkedIn](https://www.linkedin.com/in/javier-enrique-prada-rond%C3%B3n-37b544a7/) | [Email](mailto:jenpronet@gmail.com)
 
 ---
